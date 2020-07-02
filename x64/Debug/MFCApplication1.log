@@ -1,0 +1,26 @@
+﻿  MFCApplication1.cpp
+  MFCApplication1Dlg.cpp
+c:\users\b635185\downloads\새 폴더\mfcapplication1\mfcapplication1\mfcapplication1dlg.cpp(69): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\b635185\downloads\새 폴더\mfcapplication1\mfcapplication1\mfcapplication1dlg.cpp(283): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\b635185\downloads\새 폴더\mfcapplication1\mfcapplication1\mfcapplication1dlg.cpp(451): warning C4101: 'pixelFormat' :참조되지 않은 지역 변수입니다.
+c:\users\b635185\downloads\새 폴더\mfcapplication1\mfcapplication1\mfcapplication1dlg.cpp(626): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\b635185\downloads\새 폴더\mfcapplication1\mfcapplication1\mfcapplication1dlg.cpp(635): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\b635185\downloads\새 폴더\mfcapplication1\mfcapplication1\mfcapplication1dlg.cpp(641): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\b635185\downloads\새 폴더\mfcapplication1\mfcapplication1\mfcapplication1dlg.cpp(745): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\b635185\downloads\새 폴더\mfcapplication1\mfcapplication1\mfcapplication1dlg.cpp(751): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\b635185\downloads\새 폴더\mfcapplication1\mfcapplication1\mfcapplication1dlg.cpp(1327): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\b635185\downloads\새 폴더\mfcapplication1\mfcapplication1\mfcapplication1dlg.cpp(1285): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\b635185\downloads\새 폴더\mfcapplication1\mfcapplication1\mfcapplication1dlg.cpp(1615): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\b635185\downloads\새 폴더\mfcapplication1\mfcapplication1\mfcapplication1dlg.cpp(1617): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  코드를 생성하고 있습니다...
+  SOIL.lib(SOIL.obj) : /GL로 컴파일한 MSIL .netmodule 또는 모듈이 있습니다. /LTCG를 지정하여 링크를 다시 시작하십시오. /LTCG를 링크 명령줄에 추가하면 링커 성능이 향상됩니다.
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/LTCG' 사양으로 인해 무시됩니다.
+LINK : warning LNK4098: 'MSVCRT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  코드를 생성하고 있습니다.
+  코드를 생성했습니다.
+SOIL.lib(SOIL.obj) : warning LNK4099: 'vc110.pdb' PDB를 'SOIL.lib(SOIL.obj)' 또는 'C:\Users\B635185\Downloads\새 폴더\MFCApplication1\x64\Debug\vc110.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: 'vc110.pdb' PDB를 'SOIL.lib(stb_image_aug.obj)' 또는 'C:\Users\B635185\Downloads\새 폴더\MFCApplication1\x64\Debug\vc110.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+SOIL.lib(image_helper.obj) : warning LNK4099: 'vc110.pdb' PDB를 'SOIL.lib(image_helper.obj)' 또는 'C:\Users\B635185\Downloads\새 폴더\MFCApplication1\x64\Debug\vc110.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+SOIL.lib(image_DXT.obj) : warning LNK4099: 'vc110.pdb' PDB를 'SOIL.lib(image_DXT.obj)' 또는 'C:\Users\B635185\Downloads\새 폴더\MFCApplication1\x64\Debug\vc110.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  MFCApplication1.vcxproj -> C:\Users\B635185\Downloads\새 폴더\MFCApplication1\x64\Debug\MFCApplication1.exe
