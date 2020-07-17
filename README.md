@@ -3,4 +3,4 @@
 
 If you want to test my project, execute "MFCApplication1.exe" file.
 
-It can need to take some seconds due to load 3D objects to which .obj files is converted.
+It can need to take some seconds due to load 3D objects where .obj files is converted.
